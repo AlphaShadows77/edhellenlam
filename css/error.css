@@ -1,0 +1,14 @@
+body{
+	background-image: ../img/error/stars.jpg;
+}
+
+img{
+	display: block;
+	margin: auto;
+}
+
+a{
+	display: block;
+	text-align: right;
+	color: #41e7ff;
+}

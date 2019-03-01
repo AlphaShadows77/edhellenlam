@@ -1,0 +1,28 @@
+.logo{
+	display: block;
+	margin: 25px auto 35px auto;
+}
+
+.menu{
+	margin: 20px 30px 0 30px;
+	background-color: #151723;
+	border-radius: 5px;
+
+	display: flex;
+	justify-content: space-around;
+}
+
+.menu a{
+	display: block;
+	border-radius: 5px;
+	width: 20%;
+	text-align: center;
+	text-decoration: none;
+	color: #dace7a;
+	background-color: #151723;
+	transition: background-color .5s;
+}
+
+.menu a:hover{
+	background-color: #1E2B40;
+}

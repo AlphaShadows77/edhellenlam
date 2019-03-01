@@ -1,0 +1,64 @@
+body{
+	background: url('../img/background.png');
+	font-size: 22px;
+	color: #dace7a;
+}
+
+article{
+
+	text-align: justify;
+	margin: 20px 30px;
+	padding: 10px 25px;
+	background-color: #1f2733;
+	border-radius: 5px;
+
+}
+
+a{
+	color: #aa9257;
+}
+
+h1, h2, h3, h4, h5, h6, strong{
+	letter-spacing: 1.5px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin-top: 30px;
+	color: #aa9257;
+}
+
+
+.tab{
+	margin-left: 1.5cm;
+}
+
+.center{
+	text-align: center;
+}
+
+.img_center{
+	display: block;
+	margin: 0 auto;
+}
+
+.u{
+	text-decoration: underline;
+}
+
+.i{
+	font-style: italic;
+}
+
+.legende{
+	text-align: center;
+}
+
+.legende, .source{
+	font-size: 15px;
+}
+
+.content_with_text{
+	display: inline-block;
+	position: relative;
+}
+

@@ -1,0 +1,9 @@
+.flag{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+article h1{
+	text-align: center;
+}

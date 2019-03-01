@@ -1,0 +1,8 @@
+@font-face{
+	font-family: "Franken";
+	src: url('../font/Enchanted.otf');
+}
+
+body{
+	font-family: "Franken";
+}
